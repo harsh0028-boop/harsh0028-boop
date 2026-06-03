@@ -13,7 +13,7 @@
 
 ## 🌸 About Me
 
-<img align="right" src="https://giffiles.alphacoders.com/121/12113.gif" width="auto" height="auto">
+<img align="right" src="https://giffiles.alphacoders.com/121/12113.gif" width="400" height="auto">
 
 ```yaml
 name: Harsh
