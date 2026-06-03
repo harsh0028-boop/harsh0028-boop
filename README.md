@@ -13,7 +13,7 @@
 
 ## 🌸 About Me
 
-<img align="right" src="https://giffiles.alphacoders.com/121/12113.gif" width="410" height="200">
+<img align="right" src="https://giffiles.alphacoders.com/121/12113.gif" width="410" height="350">
 
 ```yaml
 name: Harsh
@@ -91,7 +91,7 @@ fun_fact: "⚡ Chaos, code, and a little bit of magic"
           🌟 Stay Curious. Keep Building. Make an Impact. 🚀
 
 
-    ⭐ **If you find my work interesting, drop a star on my repos!** ⭐    
+    ⭐ **If you find my work interesting, drop a star on my repos!** ⭐
 
 </td>
 </tr>
