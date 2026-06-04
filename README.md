@@ -72,6 +72,8 @@ fun_fact: "⚡ Chaos, code, and a little bit of magic"
 
 
 
+<div align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=harsh0028-boop&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
 
 </div>
